@@ -17,11 +17,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=Languages&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
 
-
-### Languages:
 <p align="center">
- <img src="https://skillicons.dev/icons?i=py,arduino" alt="Programming Languages" height="80" />
+  <img src="https://skillicons.dev/icons?i=py,arduino" alt="Programming Languages" height="150" />
+</p>
 
 
   
