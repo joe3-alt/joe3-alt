@@ -2,16 +2,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## GitHub Magical Statistics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=GitHub+Magical+Statistics&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
 
 <div align="center">
   
   <!-- Pixel Profile Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="">
-    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Joe&screen_effect=true&dithering=true&include_all_commits=true&theme=road_trip">
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Joe&screen_effect=true&dithering=true&include_all_commits=true&theme=road_trip" alt="GitHub Stats">
-  </picture>
+  <a href="https://www.harrypotter.com/fact-file/locations/hogwarts" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="">
+      <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Joe&screen_effect=true&dithering=true&include_all_commits=true&theme=road_trip">
+      <img src="https://pixel-profile.vercel.app/api/github-stats?username=Joe&screen_effect=true&dithering=true&include_all_commits=true&theme=road_trip" alt="GitHub Stats">
+    </picture>
+  </a>
+  
+</div>
+  
+</div>
   
 </div>
 
@@ -49,11 +55,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=40&pause=9999&color=FFD700&center=true&vCenter=true&width=600&lines=✨Connect+With+Me✨" alt="Connect With Me" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=Connect+With+Me&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/joe3-alt">
@@ -65,7 +67,7 @@
   
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=Quote&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=28&pause=2000&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=+%22Do+not+pity+the+dead+pity+the+living+and+above%2C;all+those+who+live+without+love.%22+" alt="Quote" />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=ae0001&height=150&section=header&text=&fontSize=40&fontColor=FFD700&animation=twinkling&fontAlignY=38" width="100%"/>
