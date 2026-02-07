@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kevo-1">
+  <a href="https://github.com/joe3-alt">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
